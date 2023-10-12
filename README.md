@@ -1,8 +1,7 @@
 # DcenTalk
 
 
-A decentralized application enabling work communications and organization to achieve your team goals remotely and seamlessly to avoid ineficiencies
-
+A decentralized application enabling remote work communications and organization to achieve your team goals seamlessly
 
 The digital landscape is shifting towards decentralization, yet our primary collaboration tools remain tethered to centralized ideologies. DcenTalk emerges as a beacon for those who live and breathe the Web3 spirit. Built for teams distributed across various time zones and seeking to engage with the profound capabilities of blockchain and decentralized technologies, 
 DcenTalk is the epitome of futuristic team communication. DcenTalk alluding to decentralizations as also decent work collaborations values to foster innovation. It’s a dApp conceptualized and forged for the pioneers in the Web3 arena mainly into coding work relationships. Picture Slack or Microsoft Teams, but decentralized, with a deep commitment to privacy, and leveraging the potential of the blockchain world to power the innovation to come for the forward thinking community.
